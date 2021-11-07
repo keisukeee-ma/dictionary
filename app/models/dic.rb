@@ -1,0 +1,2 @@
+class Dic < ApplicationRecord
+end
